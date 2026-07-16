@@ -1,0 +1,19 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-ollama
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# PDF handling
+pypdf
+PyMuPDF
+
+# UI
+streamlit
